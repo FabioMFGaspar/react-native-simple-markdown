@@ -1,7 +1,7 @@
 {
   "name": "react-native-simple-markdown-updated-dependencies",
   "repository": "https://github.com/FabioMFGaspar/react-native-simple-markdown",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description":
     "Fork of react-native-simple-markdown to fix the packages dependencies",
   "main": "lib/index.js",
