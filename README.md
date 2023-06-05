@@ -1,17 +1,14 @@
-# react-native-simple-markdown
-[![CircleCI](https://circleci.com/gh/CharlesMangwa/react-native-simple-markdown.svg?style=shield&circle-token=4a6119afe938ed7305713fece562bb33d6bc22d8)](https://circleci.com/gh/CharlesMangwa/react-native-simple-markdown)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-simple-markdown.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-simple-markdown)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![npm version](https://img.shields.io/npm/v/react-native-simple-markdown.svg)](https://www.npmjs.com/package/react-native-simple-markdown)
+# react-native-simple-markdown-updated-dependencies
+[![npm version](https://img.shields.io/npm/v/react-native-simple-markdown.svg)](https://www.npmjs.com/package/react-native-simple-markdown-updated-dependencies)
 
-This is a fork of [react-native-simple-markdown](https://github.com/CharlesMangwa/react-native-simple-markdown)
-It updated the simple-markdown versions and fixes the "git:" installation issue
+This is a fork of [react-native-simple-markdown](https://github.com/CharlesMangwa/react-native-simple-markdown)   
+It updates the simple-markdown versions and fixes the "git:" installation issue
 
 A component for rendering Markdown in React Native with native components, working with both iOS & Android. Pull requests are welcome! 😃 🎉
 
 ## Getting started
 
-`yarn add react-native-simple-markdown`
+`yarn add react-native-simple-markdown-updated-dependencies`
 
 ## Future
 
@@ -19,12 +16,12 @@ This library is currently being (kinda) completely rewritten. If you've been usi
 
 ## Usage
 
-All you need to do is import the `react-native-simple-markdown` and then use the
+All you need to do is import the `react-native-simple-markdown-updated-dependencies` and then use the
 `<Markdown />` component.
 
 ```js
 import React from 'react'
-import Markdown from 'react-native-simple-markdown'
+import Markdown from 'react-native-simple-markdown-updated-dependencies'
 
 const MyAwesomeApp = () => {
   return (
