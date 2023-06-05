@@ -1,12 +1,12 @@
 {
-  "name": "react-native-simple-markdown",
-  "repository": "https://github.com/CharlesMangwa/react-native-simple-markdown",
-  "version": "next",
+  "name": "react-native-simple-markdown-updated-dependencies",
+  "repository": "https://github.com/FabioMFGaspar/react-native-simple-markdown",
+  "version": "1.1.1",
   "description":
-    "Render Markdown in React Native with native components (iOS & Android)",
+    "Fork of react-native-simple-markdown to fix the packages dependencies",
   "main": "lib/index.js",
   "files": ["lib"],
-  "author": "Charles Mangwa <charlesmangwa@gmail.com>",
+  "author": "Fábio Gaspar <fabiomfgaspar@gmail.com>",
   "scripts": {
     "lint": "eslint .",
     "flow": "flow --show-all-errors",
@@ -19,7 +19,7 @@
   "dependencies": {
     "lodash": "^4.15.0",
     "prop-types": "^15.6.0",
-    "simple-markdown": "^0.3.1"
+    "simple-markdown": "^0.7.3"
   },
   "peerDependencies": {
     "react": "*",

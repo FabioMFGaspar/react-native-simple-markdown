@@ -4,6 +4,9 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![npm version](https://img.shields.io/npm/v/react-native-simple-markdown.svg)](https://www.npmjs.com/package/react-native-simple-markdown)
 
+This is a fork of [react-native-simple-markdown](https://github.com/CharlesMangwa/react-native-simple-markdown)
+It updated the simple-markdown versions and fixes the "git:" installation issue
+
 A component for rendering Markdown in React Native with native components, working with both iOS & Android. Pull requests are welcome! 😃 🎉
 
 ## Getting started
